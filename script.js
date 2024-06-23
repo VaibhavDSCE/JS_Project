@@ -1,5 +1,5 @@
 var clutter="";
-var timer = 40;
+var timer = 60;
 var rn= 0;
 var score=0;
 
